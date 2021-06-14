@@ -14,7 +14,7 @@ public class allmain {
         System.out.println("2. Multiplication");
         System.out.println("3. Division");
         System.out.println("4. Percentage");
-        System.out.println("Give the answer with appropriate serial number");
+        System.out.println("Give the answer with the appropriate serial number");
         c= val.nextInt();
 
         if (c==1){
