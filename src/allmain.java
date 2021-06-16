@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 public class allmain {
     public static void main(String[] args){
         float a,b,c;
